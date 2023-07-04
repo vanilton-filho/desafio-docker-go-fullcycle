@@ -8,7 +8,7 @@ esse texto. O desafio se concentra em mostrar as habilidades desenvolvidas
 durante todo o módulo. Precisamos gerar uma imagem Docker que tenha menos de 2MB e
 assim está feito, a minha imagem tem 1.85MB.
 
-Para fazer o download da imagem utilize o seguinte comando:
+Para fazer o download da imagem e executar o container utilize o seguinte comando:
 
-`docker pull vaniltonalv3sfilho/fullcycle`
+`docker run vaniltonalv3sfilho/fullcycle`
 
